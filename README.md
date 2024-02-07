@@ -26,7 +26,11 @@ The Orders project was developed with React Native and Expo. In it, the initial 
 
 ## 🎥 Implementation Video
 
-In the GitHub edit, drag the video that it already puts on github itself.
+
+
+https://github.com/VagnerNerves/nlw-expert-rn-022024/assets/40831841/40cd3f26-6e1c-40b3-85de-cc1db4cffd65
+
+
 
 ## 🎨 Layout
 
